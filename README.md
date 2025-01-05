@@ -1,2 +1,2 @@
-# my-website
-# This is my blog website
+# My blog website
+## This is my blog website
